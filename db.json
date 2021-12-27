@@ -1,67 +1,11 @@
 {
-
-  "todoList": [
-
-    {
-
-      "id": 1,
-
-      "title": "HTML",
-
-      "completed": true
-
-    },
-
-    {
-
-      "id": 2,
-
-      "title": "CSS",
-
-      "completed": true
-
-    },
-
-    {
-
-      "id": 5,
-
-      "title": "LINUX",
-
-      "completed": false
-
-    },
-
-    {
-
-      "id": 6,
-
-      "title": "JAVA",
-
-      "completed": false
-
-    },
-
-    {
-
-      "id": 7,
-
-      "title": "HCL Commerce",
-
-      "completed": false
-
-    },
-
-    {
-
-      "id": 8,
-
-      "title": "REACT",
-
-      "completed": false
-
-    }
-
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
+    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
+    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
+    { "id": "4", "title": "Inception", "releaseYear": "2010" },
+    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
   ]
-
 }
