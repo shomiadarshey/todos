@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 0,
     "name": "Hit the gym",
@@ -19,6 +19,18 @@
        "id": 3,
     "name": "Buy Eggs",
     "completed": false
+    },
+    {
+     "id": 4,
+    "name": "Read a book",
+    "completed": false
+    },
+    {
+      {
+    "id": 5,
+    "name": "Book Tickets",
+    "completed": false
+  }
     }
   ],
   "comments": [
