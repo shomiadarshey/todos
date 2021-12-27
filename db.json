@@ -25,12 +25,10 @@
     "name": "Read a book",
     "completed": false
     },
-    {
       {
     "id": 5,
     "name": "Book Tickets",
     "completed": false
-  }
     }
   ],
   "comments": [
